@@ -7,6 +7,7 @@ Manejamos el aprender a adjuntar una imagen de inteligencia artificial y un codi
 ## Pasos para su ejecución: 
 Ejecutar el codigo hola mundo y la imagen, para poder verla reflejada en un sitio web, en este caso en el navegador de internet.
 ## Datos del autor (nombre, correo, carnet): 
-Jose Alejandro Roldan Carrera, jose.roldan@galileo.edu, carnet 25002537
+Jose Alejandro Roldan Carrera, jose.roldan@galileo.edu, carnet 25002537.
+
 
 
